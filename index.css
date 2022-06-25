@@ -1,3 +1,16 @@
-p {
-    color:blue; font:70px;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+ margin: 0 auto;
+    width: 1000px;
+}
+.img-jpg{
+    width: 300px;
+    height: 200px;
+}
+h2 {
+    color:blue;
 }
