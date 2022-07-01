@@ -7,9 +7,13 @@
  margin: 0 auto;
     width: 1000px;
 }
-.img-jpg{
-    width: 300px;
-    height: 200px;
+.imgdk-img1 {
+    width: 20px;
+    height: 20px;
+    background-image: url(imgdk/img1.jpg);
+    background-size: 20%
+    background-repeat: no-repeat;
+    background-position: 20%;
 }
 h2 {
     color:blue;
